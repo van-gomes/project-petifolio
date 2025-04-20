@@ -9,47 +9,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8ce183a-7d32-43f9-bc35-945db21dfc86" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Petifolio.API/Petifolio.API.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.API/Petifolio.API.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.API/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.API/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.API/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.API/Properties/launchSettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.API/bin/Debug/net9.0/Petifolio.API.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.API/bin/Debug/net9.0/Petifolio.API.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.API/bin/Debug/net9.0/Petifolio.API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.API/bin/Debug/net9.0/Petifolio.API.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.API/bin/Debug/net9.0/Petifolio.API.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.API/bin/Debug/net9.0/Petifolio.API.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.API/obj/Debug/net9.0/Petifolio.API.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.API/obj/Debug/net9.0/Petifolio.API.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.API/obj/Debug/net9.0/Petifolio.API.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.API/obj/Debug/net9.0/Petifolio.API.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.API/obj/Debug/net9.0/Petifolio.API.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.API/obj/Debug/net9.0/Petifolio.API.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.API/obj/Debug/net9.0/Petifolio.API.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.API/obj/Debug/net9.0/Petifolio.API.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.API/obj/Debug/net9.0/Petifolio.API.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.API/obj/Debug/net9.0/Petifolio.API.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.API/obj/Debug/net9.0/Petifolio.API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.API/obj/Debug/net9.0/Petifolio.API.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.API/obj/Debug/net9.0/Petifolio.API.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.API/obj/Debug/net9.0/Petifolio.API.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.API/obj/Debug/net9.0/ref/Petifolio.API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.API/obj/Debug/net9.0/ref/Petifolio.API.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.API/obj/Debug/net9.0/refint/Petifolio.API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.API/obj/Debug/net9.0/refint/Petifolio.API.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.API/obj/Petifolio.API.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.API/obj/Petifolio.API.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.API/obj/Petifolio.API.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.API/obj/Petifolio.API.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.API/obj/Petifolio.API.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.API/obj/Petifolio.API.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.API/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.API/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.API/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.API/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.API/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.API/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.API/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.API/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.API/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.API/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.Aplication/Petifolio.Aplication.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.Aplication/Petifolio.Aplication.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.Aplication/obj/Debug/net9.0/Petifolio.Aplication.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.Aplication/obj/Debug/net9.0/Petifolio.Aplication.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.Aplication/obj/Debug/net9.0/Petifolio.Aplication.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.Aplication/obj/Debug/net9.0/Petifolio.Aplication.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.Aplication/obj/Petifolio.Aplication.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.Aplication/obj/Petifolio.Aplication.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.Aplication/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.Aplication/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.Aplication/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.Aplication/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.Aplication/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.Aplication/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.Aplication/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.Aplication/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.Aplication/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.Aplication/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.Comunication/Class1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.Comunication/Petifolio.Comunication.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.Comunication/Petifolio.Comunication.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.Comunication/obj/Debug/net9.0/Petifolio.Comunication.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.Comunication/obj/Debug/net9.0/Petifolio.Comunication.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.Comunication/obj/Debug/net9.0/Petifolio.Comunication.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.Comunication/obj/Debug/net9.0/Petifolio.Comunication.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.Comunication/obj/Petifolio.Comunication.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.Comunication/obj/Petifolio.Comunication.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.Comunication/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.Comunication/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.Comunication/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.Comunication/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.Comunication/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.Comunication/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.Comunication/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.Comunication/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Petifolio/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Petifolio/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +23,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1db5eab0f5c149f7b4508781996baa7cc2e800/f5/bcab0d7f/Monitor.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Petifolio.API/Controller/PetController.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProblemsViewState">
@@ -79,7 +40,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    ".NET Launch Settings Profile.Petifolio.API.executor": "Debug",
+    ".NET Launch Settings Profile.Petifolio.API.executor": "Run",
     ".NET Launch Settings Profile.Petifolio.API: http.executor": "Run",
     ".NET Launch Settings Profile.Petifolio.API: https.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
@@ -92,6 +53,11 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "GitIgnore"
+    ]
   }
 }]]></component>
   <component name="RunManager" selected=".NET Launch Settings Profile.Petifolio.API">
@@ -156,7 +122,7 @@
       <option name="presentableId" value="Default" />
       <updated>1745095305468</updated>
       <workItem from="1745095307460" duration="1755000" />
-      <workItem from="1745181299550" duration="6485000" />
+      <workItem from="1745181299550" duration="7087000" />
     </task>
     <servers />
   </component>

@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Petifolio.Aplication/1.0.0": {
+        "dependencies": {
+          "Petifolio.Comunication": "1.0.0"
+        },
+        "runtime": {
+          "Petifolio.Aplication.dll": {}
+        }
+      },
+      "Petifolio.Comunication/1.0.0": {
+        "runtime": {
+          "Petifolio.Comunication.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Petifolio.Aplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Petifolio.Comunication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

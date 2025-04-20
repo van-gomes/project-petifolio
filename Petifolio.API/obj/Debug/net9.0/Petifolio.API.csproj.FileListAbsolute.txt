@@ -31,3 +31,8 @@
 /home/van-gomes/Documentos/Rocketseat/asp_net/projects/Petifolio/Petifolio.API/obj/Debug/net9.0/Petifolio.API.pdb
 /home/van-gomes/Documentos/Rocketseat/asp_net/projects/Petifolio/Petifolio.API/obj/Debug/net9.0/Petifolio.API.genruntimeconfig.cache
 /home/van-gomes/Documentos/Rocketseat/asp_net/projects/Petifolio/Petifolio.API/obj/Debug/net9.0/ref/Petifolio.API.dll
+/home/van-gomes/Documentos/Rocketseat/asp_net/projects/Petifolio/Petifolio.API/bin/Debug/net9.0/Petifolio.Aplication.dll
+/home/van-gomes/Documentos/Rocketseat/asp_net/projects/Petifolio/Petifolio.API/bin/Debug/net9.0/Petifolio.Comunication.dll
+/home/van-gomes/Documentos/Rocketseat/asp_net/projects/Petifolio/Petifolio.API/bin/Debug/net9.0/Petifolio.Aplication.pdb
+/home/van-gomes/Documentos/Rocketseat/asp_net/projects/Petifolio/Petifolio.API/bin/Debug/net9.0/Petifolio.Comunication.pdb
+/home/van-gomes/Documentos/Rocketseat/asp_net/projects/Petifolio/Petifolio.API/obj/Debug/net9.0/Petifolio.API.sourcelink.json

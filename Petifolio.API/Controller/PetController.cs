@@ -18,4 +18,12 @@ public class PetController : ControllerBase
         
         return Created(string.Empty, response);
     }
+
+    [HttpPut]
+    [Route("{id}")]
+    [ProducesResponseType(StatusCodes.Status204NoContent)]
+    public IActionResult Update([FromRoute] int id, [FromBody] RequestRegisterPetJson request)
+    {
+        return NoContent();
+    }
 }

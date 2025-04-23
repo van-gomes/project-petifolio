@@ -11,43 +11,12 @@
     <list default="true" id="c8ce183a-7d32-43f9-bc35-945db21dfc86" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Petifolio/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Petifolio/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Petifolio.API/Controller/PetController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.API/Controller/PetController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.API/bin/Debug/net8.0/Petifolio.API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.API/bin/Debug/net8.0/Petifolio.API.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.API/bin/Debug/net8.0/Petifolio.API.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.API/bin/Debug/net8.0/Petifolio.API.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.API/bin/Debug/net8.0/Petifolio.Aplication.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.API/bin/Debug/net8.0/Petifolio.Aplication.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.API/bin/Debug/net8.0/Petifolio.Aplication.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.API/bin/Debug/net8.0/Petifolio.Aplication.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.API/bin/Debug/net8.0/Petifolio.Comunication.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.API/bin/Debug/net8.0/Petifolio.Comunication.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.API/bin/Debug/net8.0/Petifolio.Comunication.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.API/bin/Debug/net8.0/Petifolio.Comunication.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Petifolio.API/obj/Debug/net8.0/Petifolio.API.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.API/obj/Debug/net8.0/Petifolio.API.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Petifolio.API/obj/Debug/net8.0/Petifolio.API.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.API/obj/Debug/net8.0/Petifolio.API.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.API/obj/Debug/net8.0/Petifolio.API.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.API/obj/Debug/net8.0/Petifolio.API.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.API/obj/Debug/net8.0/Petifolio.API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.API/obj/Debug/net8.0/Petifolio.API.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.API/obj/Debug/net8.0/Petifolio.API.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.API/obj/Debug/net8.0/Petifolio.API.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.API/obj/Debug/net8.0/Petifolio.API.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.API/obj/Debug/net8.0/Petifolio.API.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.API/obj/Debug/net8.0/ref/Petifolio.API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.API/obj/Debug/net8.0/ref/Petifolio.API.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.API/obj/Debug/net8.0/refint/Petifolio.API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.API/obj/Debug/net8.0/refint/Petifolio.API.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.Aplication/UseCases/Pet/Register/RegisterPetUseCase.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.Aplication/UseCases/Pet/Register/RegisterPetUseCase.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.Aplication/bin/Debug/net8.0/Petifolio.Aplication.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.Aplication/bin/Debug/net8.0/Petifolio.Aplication.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.Aplication/bin/Debug/net8.0/Petifolio.Aplication.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.Aplication/bin/Debug/net8.0/Petifolio.Aplication.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.Aplication/bin/Debug/net8.0/Petifolio.Comunication.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.Aplication/bin/Debug/net8.0/Petifolio.Comunication.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.Aplication/bin/Debug/net8.0/Petifolio.Comunication.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.Aplication/bin/Debug/net8.0/Petifolio.Comunication.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Petifolio.Aplication/obj/Debug/net8.0/Petifolio.Aplication.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.Aplication/obj/Debug/net8.0/Petifolio.Aplication.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Petifolio.Aplication/obj/Debug/net8.0/Petifolio.Aplication.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.Aplication/obj/Debug/net8.0/Petifolio.Aplication.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.Aplication/obj/Debug/net8.0/Petifolio.Aplication.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.Aplication/obj/Debug/net8.0/Petifolio.Aplication.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.Aplication/obj/Debug/net8.0/Petifolio.Aplication.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.Aplication/obj/Debug/net8.0/Petifolio.Aplication.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.Aplication/obj/Debug/net8.0/Petifolio.Aplication.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.Aplication/obj/Debug/net8.0/Petifolio.Aplication.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.Aplication/obj/Debug/net8.0/Petifolio.Aplication.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.Aplication/obj/Debug/net8.0/Petifolio.Aplication.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.Aplication/obj/Debug/net8.0/ref/Petifolio.Aplication.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.Aplication/obj/Debug/net8.0/ref/Petifolio.Aplication.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.Aplication/obj/Debug/net8.0/refint/Petifolio.Aplication.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.Aplication/obj/Debug/net8.0/refint/Petifolio.Aplication.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.Comunication/Request/RequestRegisterPetJson.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.Comunication/Request/RequestRegisterPetJson.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.Comunication/bin/Debug/net8.0/Petifolio.Comunication.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.Comunication/bin/Debug/net8.0/Petifolio.Comunication.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.Comunication/bin/Debug/net8.0/Petifolio.Comunication.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.Comunication/bin/Debug/net8.0/Petifolio.Comunication.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Petifolio.Comunication/obj/Debug/net8.0/Petifolio.Comunication.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.Comunication/obj/Debug/net8.0/Petifolio.Comunication.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Petifolio.Comunication/obj/Debug/net8.0/Petifolio.Comunication.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.Comunication/obj/Debug/net8.0/Petifolio.Comunication.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.Comunication/obj/Debug/net8.0/Petifolio.Comunication.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.Comunication/obj/Debug/net8.0/Petifolio.Comunication.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.Comunication/obj/Debug/net8.0/Petifolio.Comunication.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.Comunication/obj/Debug/net8.0/Petifolio.Comunication.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.Comunication/obj/Debug/net8.0/Petifolio.Comunication.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.Comunication/obj/Debug/net8.0/Petifolio.Comunication.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.Comunication/obj/Debug/net8.0/ref/Petifolio.Comunication.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.Comunication/obj/Debug/net8.0/ref/Petifolio.Comunication.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Petifolio.Comunication/obj/Debug/net8.0/refint/Petifolio.Comunication.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Petifolio.Comunication/obj/Debug/net8.0/refint/Petifolio.Comunication.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,28 +45,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Launch Settings Profile.Petifolio.API.executor": "Debug",
-    ".NET Launch Settings Profile.Petifolio.API: http.executor": "Run",
-    ".NET Launch Settings Profile.Petifolio.API: https.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Launch Settings Profile.Petifolio.API.executor&quot;: &quot;Debug&quot;,
+    &quot;.NET Launch Settings Profile.Petifolio.API: http.executor&quot;: &quot;Run&quot;,
+    &quot;.NET Launch Settings Profile.Petifolio.API: https.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "GitIgnore"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;GitIgnore&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Launch Settings Profile.Petifolio.API">
     <configuration name="Petifolio.API" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Petifolio.API/Petifolio.API.csproj" />
@@ -162,7 +131,9 @@
       <workItem from="1745095307460" duration="1755000" />
       <workItem from="1745181299550" duration="7385000" />
       <workItem from="1745273060960" duration="2714000" />
-      <workItem from="1745361920843" duration="1771000" />
+      <workItem from="1745361920843" duration="2199000" />
+      <workItem from="1745427572641" duration="376000" />
+      <workItem from="1745434197851" duration="396000" />
     </task>
     <servers />
   </component>
@@ -201,13 +172,13 @@
         </breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Petifolio.API/Controller/PetController.cs</url>
-          <line>25</line>
+          <line>27</line>
           <properties documentPath="$PROJECT_DIR$/Petifolio.API/Controller/PetController.cs" containingFunctionPresentation="Method 'Update'">
             <startOffsets>
-              <option value="823" />
+              <option value="999" />
             </startOffsets>
             <endOffsets>
-              <option value="824" />
+              <option value="1000" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="5" />

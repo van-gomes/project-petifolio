@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using Petifolio.Aplication.UseCases.Pet.Delete;
 using Petifolio.Aplication.UseCases.Pet.GetAll;
 using Petifolio.Aplication.UseCases.Pet.GetById;
 using Petifolio.Aplication.UseCases.Pet.Register;
@@ -59,5 +60,18 @@ public class PetController : ControllerBase
         var response = useCase.Execute(id);
         
         return Ok(response);
+    }
+    
+    [HttpDelete]
+    [Route("{id}")]
+    [ProducesResponseType(StatusCodes.Status204NoContent)]
+    [ProducesResponseType(typeof(ResponseErrorJason), StatusCodes.Status400BadRequest)]
+    public IActionResult Delete(int id)
+    {
+        var useCase = new DeletePetByIdUseCase();
+
+        useCase.Execute(id);
+        
+        return NoContent();
     }
 }

@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using Petifolio.Aplication.UseCases.Pet.GetAll;
+using Petifolio.Aplication.UseCases.Pet.GetById;
 using Petifolio.Aplication.UseCases.Pet.Register;
 using Petifolio.Comunication.Request;
 using Petifolio.Comunication.Response;
@@ -45,5 +46,18 @@ public class PetController : ControllerBase
         }
         
         return NoContent();
+    }
+    
+    [HttpGet]
+    [Route("{id}")]
+    [ProducesResponseType(typeof(ResponsePetJason), StatusCodes.Status200OK)]
+    [ProducesResponseType(StatusCodes.Status404NotFound)]
+    public IActionResult GetById(int id)
+    {
+        var useCase = new GetPetByIdUseCase();
+        
+        var response = useCase.Execute(id);
+        
+        return Ok(response);
     }
 }

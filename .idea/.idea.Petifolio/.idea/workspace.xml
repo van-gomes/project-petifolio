@@ -78,7 +78,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    ".NET Launch Settings Profile.Petifolio.API.executor": "Debug",
+    ".NET Launch Settings Profile.Petifolio.API.executor": "Run",
     ".NET Launch Settings Profile.Petifolio.API: http.executor": "Run",
     ".NET Launch Settings Profile.Petifolio.API: https.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
@@ -165,7 +165,7 @@
       <workItem from="1745361920843" duration="2199000" />
       <workItem from="1745427572641" duration="376000" />
       <workItem from="1745434197851" duration="2042000" />
-      <workItem from="1745494732296" duration="2404000" />
+      <workItem from="1745494732296" duration="5691000" />
     </task>
     <servers />
   </component>
@@ -204,13 +204,13 @@
         </breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Petifolio.API/Controller/PetController.cs</url>
-          <line>36</line>
+          <line>37</line>
           <properties documentPath="$PROJECT_DIR$/Petifolio.API/Controller/PetController.cs" containingFunctionPresentation="Method 'GetAll'">
             <startOffsets>
-              <option value="1280" />
+              <option value="1329" />
             </startOffsets>
             <endOffsets>
-              <option value="1281" />
+              <option value="1330" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="6" />

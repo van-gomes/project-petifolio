@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Petifolio.Comunication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b28ccf461273329ef15690f287f9ac3144c42fda")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ad570f9125b0e71a2c72f95b9df606d258d195b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Petifolio.Comunication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Petifolio.Comunication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

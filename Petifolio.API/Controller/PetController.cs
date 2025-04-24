@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using Petifolio.Aplication.UseCases.Pet.GetAll;
 using Petifolio.Aplication.UseCases.Pet.Register;
 using Petifolio.Comunication.Request;
 using Petifolio.Comunication.Response;
@@ -26,6 +27,23 @@ public class PetController : ControllerBase
     [ProducesResponseType(typeof(ResponseErrorJason), StatusCodes.Status400BadRequest)]
     public IActionResult Update([FromRoute] int id, [FromBody] RequestRegisterPetJson request)
     {
+        return NoContent();
+    }
+    
+    [HttpGet]
+    [ProducesResponseType(typeof(ResponseAllPetJason), StatusCodes.Status200OK)]
+    [ProducesResponseType(StatusCodes.Status204NoContent)]
+    public IActionResult GetAll()
+    {
+        var useCase = new GetAllPetsUseCase();
+        
+        var response = useCase.Execute();
+
+        if (response.Pets.Any())
+        {
+            return Ok(response);
+        }
+        
         return NoContent();
     }
 }
